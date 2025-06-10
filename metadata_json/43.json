@@ -1,0 +1,15 @@
+{
+  "name": "Isho Dolls #43",
+  "description": "Colorful ink drawings inspired by vintage Japanese fashion and classic fine art.",
+  "image": "https://isho.club/metadata/43.png",
+  "attributes": [
+    {
+      "trait_type": "Affinity",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Neuville and Riou"
+    }
+  ]
+}
